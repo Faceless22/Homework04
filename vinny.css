@@ -1,0 +1,180 @@
+.sova{
+    position: absolute;
+    top:528px;
+    right: 910px;
+    z-index: 2;
+    }
+.dom{
+    position: absolute;
+    top: 390px;
+    left: 150px;
+    z-index: 1;
+    }
+.herb{
+    position: absolute;
+    top: 600px;
+    right: 150px;
+    z-index: 2;
+}
+.herb2{
+    position: absolute;
+    top: 600px;
+    right: 210px;
+    z-index: 2;
+}
+.herb3{
+    position: absolute;
+    top: 600px;
+    right: 270px;
+    z-index: 2;
+}
+.herb4{
+    position: absolute;
+    top: 600px;
+    right: 330px;
+    z-index: 2;
+}
+.herb5{
+    position: absolute;
+    top: 600px;
+    right: 390px;
+}
+.herb6{
+    position: absolute;
+    top: 600px;
+    right: 450px;
+}
+.herb7{
+    position: absolute;
+    top: 600px;
+    right: 510px;
+}
+.herb8{
+    position: absolute;
+    top: 600px;
+    right: 570px;
+    z-index: 2;
+}
+.herb9{
+    position: absolute;
+    top: 600px;
+    right: 630px;
+}
+.herb10{
+    position: absolute;
+    top: 600px;
+    right: 700px;
+}
+.herb11{
+    position: absolute;
+    top: 600px;
+    right: 760px;
+}
+.herb12{
+    position: absolute;
+    top: 600px;
+    right: 820px;
+}
+.herb13{
+    position: absolute;
+    top: 600px;
+    right: 880px;
+    z-index: 2;
+}
+.herb14{
+    position: absolute;
+    top: 600px;
+    right: 940px;
+    z-index: 2;
+}
+.herb15{
+    position: absolute;
+    top: 600px;
+    right: 1000px;
+    z-index: 2;
+}
+.herb16{
+    position: absolute;
+    top: 600px;
+    right: 1060px;
+    z-index: 2;
+}
+.herb17{
+    position: absolute;
+    top: 600px;
+    right: 1120px;
+    z-index: 2;
+}
+.herb18{
+    position: absolute;
+    top: 600px;
+    right: 1180px;
+    z-index: 2;
+}
+.sun{
+    position: absolute;
+    top: 200px;
+    right: 1100px;
+}
+.palma{
+    position: absolute;
+    top: 387px;
+    right: 150px;
+    z-index: 1;
+}
+.sky{
+    position: absolute;
+    top: 310px;
+    right: 600px;
+}
+.sky2{
+    position: absolute;
+    top: 350px;
+    right: 800px;
+}   
+.puh{
+    position: absolute;
+        top: 400px;
+        right: 300px;
+        z-index: 2;
+}
+.rn{
+    position: absolute;
+        top: 240px;
+        right: 345px;
+}
+.rp{
+    position: absolute;
+        top: 215px;
+        right: 230px;
+}
+.pig{
+    position: absolute;
+        top: 530px;
+        right: 385px;
+}
+.hare{
+    position: absolute;
+        top: 500px;
+        right: 700px;
+}
+.osel{
+    position: absolute;
+        top: 513px;
+        right: 530px;
+}
+
+.button:host{
+    display: inline-block;
+    overflow: hidden;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.marquee{
+    background-color: #12c7df;
+}
+
+marquee {
+    display: inline-block;
+}
