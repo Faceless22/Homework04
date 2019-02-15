@@ -1,13 +1,13 @@
 .sova{
     position: absolute;
-    top:528px;
+    top:533px;
     right: 910px;
     z-index: 2;
     }
 .dom{
     position: absolute;
-    top: 390px;
-    left: 150px;
+    top: 400px;
+    left: 100px;
     z-index: 1;
     }
 .herb{
@@ -118,18 +118,18 @@
 }
 .palma{
     position: absolute;
-    top: 387px;
+    top: 375px;
     right: 150px;
     z-index: 1;
 }
 .sky{
     position: absolute;
-    top: 310px;
+    top: 305px;
     right: 600px;
 }
 .sky2{
     position: absolute;
-    top: 350px;
+    top: 300px;
     right: 800px;
 }   
 .puh{
@@ -140,13 +140,13 @@
 }
 .rn{
     position: absolute;
-        top: 240px;
+        top: 260px;
         right: 345px;
 }
 .rp{
     position: absolute;
-        top: 215px;
-        right: 230px;
+        top: 245px;
+        right: 290px;
 }
 .pig{
     position: absolute;
@@ -172,7 +172,7 @@
 }
 
 .marquee{
-    background-color: #12c7df;
+    background-color: #f5eab0;
 }
 
 marquee {
